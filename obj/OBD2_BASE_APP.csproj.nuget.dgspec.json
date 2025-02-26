@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\OBD2_BASE_APP.csproj": {}
+    "C:\\Users\\bajia\\source\\repos\\OBD2_APP\\OBD2_BASE_APP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\OBD2_BASE_APP.csproj": {
+    "C:\\Users\\bajia\\source\\repos\\OBD2_APP\\OBD2_BASE_APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\OBD2_BASE_APP.csproj",
+        "projectUniqueName": "C:\\Users\\bajia\\source\\repos\\OBD2_APP\\OBD2_BASE_APP.csproj",
         "projectName": "OBD2_BASE_APP",
-        "projectPath": "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\OBD2_BASE_APP.csproj",
+        "projectPath": "C:\\Users\\bajia\\source\\repos\\OBD2_APP\\OBD2_BASE_APP.csproj",
         "packagesPath": "C:\\Users\\bajia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\obj\\",
+        "outputPath": "C:\\Users\\bajia\\source\\repos\\OBD2_APP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

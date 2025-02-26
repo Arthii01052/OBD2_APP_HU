@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OBD2_BASE_APP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d39c7dce8981945deedfd248f35a75e66389aad")]
 [assembly: System.Reflection.AssemblyProductAttribute("OBD2_BASE_APP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OBD2_BASE_APP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
