@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2D6E09-3045-4BE0-9827-E4162B603BF7}|OBD2_BASE_APP.csproj|c:\\users\\bajia\\source\\repos\\obd2_reader\\obd2_base_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED2D6E09-3045-4BE0-9827-E4162B603BF7}|OBD2_BASE_APP.csproj|solutionrelative:obd2_base_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2D6E09-3045-4BE0-9827-E4162B603BF7}|OBD2_APP.csproj|c:\\users\\bajia\\source\\repos\\obd2_reader\\obd2_program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2D6E09-3045-4BE0-9827-E4162B603BF7}|OBD2_APP.csproj|solutionrelative:obd2_program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OBD2_Program.cs",
+              "DocumentMoniker": "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\OBD2_Program.cs",
+              "RelativeDocumentMoniker": "OBD2_Program.cs",
+              "ToolTip": "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\OBD2_Program.cs",
+              "RelativeToolTip": "OBD2_Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:27:16.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OBD2_APP.csproj",
+              "DocumentMoniker": "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\OBD2_BASE_APP.csproj",
+              "RelativeDocumentMoniker": "OBD2_BASE_APP.csproj",
+              "ToolTip": "C:\\Users\\bajia\\source\\repos\\OBD2_Reader\\OBD2_BASE_APP.csproj",
+              "RelativeToolTip": "OBD2_BASE_APP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T09:27:28.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
